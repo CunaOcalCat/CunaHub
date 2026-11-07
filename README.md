@@ -1,1 +1,6 @@
 # CunaHub
+
+This is a script hub I made a long time ago just for fun, and it's obfuscated...
+I don't have the unobfuscated original either. 
+
+: O....
